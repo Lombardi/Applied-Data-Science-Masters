@@ -7,4 +7,4 @@ General overview in data analytics techniques, familiarity with particular real-
 Spring 2018
 
 ## Software used/learned from this class: 
-R
+- R
