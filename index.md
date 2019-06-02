@@ -1,4 +1,4 @@
-# Applied Data Science Masters at Syracuse University 
+# About Applied Data Science Masters at Syracuse University 
 _**Academic Link:**_ https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/
 
 _**Started:**_ Fall 2017
@@ -12,6 +12,16 @@ The MS in Applied Data Science prepares students with the practical analytical a
 “Data is a precious thing and will last longer than the systems themselves”, an inspirational quote by the inventor of the World Wide Web, Tim Berners-Lee. 
 
 That quote has influenced me to do my master’s in applied data science because it acknowledges in the Digital Age, we currently live in. Data is currently taking a big part of our daily lives and according to IBM, there is estimated 2.3 trillion gigabytes of data every day.
+
+## Class took:
+- Data Mining
+- Information Visualization
+- Data Warehouse
+- Text Mining
+- Data Analysis & Decision Making
+- Big Data Analytics
+- Metadata
+- Principles of Management Science
 
 ## Software Learned:
 - R
