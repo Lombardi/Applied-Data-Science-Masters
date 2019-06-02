@@ -13,7 +13,7 @@ The MS in Applied Data Science prepares students with the practical analytical a
 
 That quote has influenced me to do my master’s in applied data science because it acknowledges in the Digital Age, we currently live in. Data is currently taking a big part of our daily lives and according to IBM, there is estimated 2.3 trillion gigabytes of data every day.
 
-## Class took:
+## Classes took:
 - Data Mining
 - Information Visualization
 - Data Warehouse
@@ -23,7 +23,7 @@ That quote has influenced me to do my master’s in applied data science because
 - Metadata
 - Principles of Management Science
 
-## Software Learned:
+## Softwares Learned:
 - R
 - Python
 - Google Analytics
