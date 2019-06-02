@@ -1,7 +1,7 @@
 ---
-title: /
-layout: home
-permalink: /
+title: /about
+layout: about
+permalink: /Applied-Data-Science-Masters/
 ---
 
 # About Applied Data Science Masters at Syracuse University
