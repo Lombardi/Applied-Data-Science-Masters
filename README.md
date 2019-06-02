@@ -1,55 +1,69 @@
----
-title: /
-layout: home
-permalink: /
----
+# jekyll-theme-console
 
-# About Applied Data Science Masters at Syracuse University
-_**Academic Link:**_ https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/
+A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
 
-_**Started:**_ Fall 2017
+<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenrec-dark.gif" width="550" title="Screenshot">
 
-_**Finshed:**_ Spring 2019
+## Demo
 
-## About:
-The MS in Applied Data Science prepares students with the practical analytical and technical skills to apply analytical concepts to gain insight from small and large datasets. The curriculum offers an innovative blend of information science and management principles. While the overall program focuses on applications of data science to enterprise operations and processes, individual courses tackle data handling issues such as data capture, management, analysis, and communication for decision-making.
+[https://b2a3e8.github.io/jekyll-theme-console/](https://b2a3e8.github.io/jekyll-theme-console/)
 
-## Reason of why I pursed it:
-“Data is a precious thing and will last longer than the systems themselves”, an inspirational quote by the inventor of the World Wide Web, Tim Berners-Lee.
 
-That quote has influenced me to do my master’s in applied data science because it acknowledges in the Digital Age, we currently live in. Data is currently taking a big part of our daily lives and according to IBM, there is estimated 2.3 trillion gigabytes of data every day.
+## Installation
 
-## Classes Taken:
-- [Data Mining](Data-Mining)
-- [Information Visualization](Information-Visualization)
-- [Data Warehouse](Data-Warehouse)
-- [Text Mining](Text-Mining)
-- [Data Analysis & Decision Making](Data-Analysis-&-Decision-Making)
-- [Big Data Analytics](Big-Data-Analytics)
-- [Metadata](Metadata)
-- [Principles of Management Science](Principles-of-Management-Science)
+Add this line to your Jekyll site's `Gemfile`:
 
-## Softwares Learned:
-- R
-- Python
-- Google Analytics
-- SQL
-- Excel
-- Tableau
-- Power BI
+```ruby
+gem "jekyll-theme-console"
+```
 
-## Data Models Learned:
-1.  Regressions
-2.  Support Vector Machine (SVM)
-3.  Naive Bayes
-4.  Unsupervised Learning
-5.  Supervised Learning
-6.  Latent Dirichlet Allocation (LDA)
-7.  Random Forest
-8.  Decision Tree
-9.  Principal Component Analysis (PCA)  
+And add this line to your Jekyll site's `_config.yml`:
 
-## Result:
-I learned how to describe, predict, and optimize any type of data.
+```yaml
+theme: jekyll-theme-console
+```
 
-You can find my portfolio on my personal website [_here_](https://www.williamdlombardi.com/wdl-ads-portfolio "Applied Data Science Portfolio").
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jekyll-theme-console
+
+## Usage
+
+In addition to jekyll's default configuration options, you can provide:
+- `header_pages` to specify which pages should be displayed in navbar
+- `footer` string, which will be inserted on the end of the page (doesn't support markup, but html)
+- `google_analytics` tracking id (tracking will be enabled only in production environments)
+
+```yaml
+header_pages:
+  - index.md
+  - about.md
+
+style: light # dark (default) or light
+
+footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+
+google_analytics: UA-NNNNNNNN-N
+```
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/b2a3e8/jekyll-theme-console. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+
+When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
+To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-console.gemspec` accordingly.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
