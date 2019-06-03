@@ -20,14 +20,14 @@ The MS in Applied Data Science prepares students with the practical analytical a
 That quote has influenced me to do my master’s in applied data science because it acknowledges in the Digital Age, we currently live in. Data is currently taking a big part of our daily lives and according to IBM, there is estimated 2.3 trillion gigabytes of data every day.
 
 ## Classes Taken:
-- [Data Mining](Data-Mining)
-- [Information Visualization](Information-Visualization)
-- [Data Warehouse](Data-Warehouse)
-- [Text Mining](Text-Mining)
-- [Data Analysis & Decision Making](Data-Analysis-&-Decision-Making)
-- [Big Data Analytics](Big-Data-Analytics)
-- [Metadata](Metadata)
-- [Principles of Management Science](Principles-of-Management-Science)
+- [Data Mining](Data-Mining/..)
+- [Information Visualization](Information-Visualization/..)
+- [Data Warehouse](Data-Warehouse/..)
+- [Text Mining](Text-Mining/..)
+- [Data Analysis & Decision Making](Data-Analysis-&-Decision-Making/..)
+- [Big Data Analytics](Big-Data-Analytics/..)
+- [Metadata](Metadata/..)
+- [Principles of Management Science](Principles-of-Management-Science/..)
 
 ## Softwares Learned:
 - R
