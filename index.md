@@ -25,7 +25,7 @@ That quote has influenced me to do my master’s in applied data science because
 - [Data Warehouse](Data-Warehouse/..)
 - [Text Mining](Text-Mining/..)
 - [Data Analysis & Decision Making](Data-Analysis-&-Decision-Making/..)
-- [Big Data Analytics](Big-Data-Analytics/..)
+- [Big Data Analytics](/Big-Data-Analytics/..)
 - [Metadata](Metadata/..)
 - [Principles of Management Science](Principles-of-Management-Science/..)
 
