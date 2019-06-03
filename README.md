@@ -36,8 +36,6 @@ In addition to jekyll's default configuration options, you can provide:
 ```yaml
 header_pages:
   - index.md
-  - /Big-Data-Analytics/
-  - data-mining/
 
 style: dark # dark (default) or light
 
