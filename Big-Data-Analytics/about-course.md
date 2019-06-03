@@ -1,7 +1,7 @@
 ---
 title: /bda
 layout: home
-permalink: /Big-Data-Analytics/about-course.md
+permalink: /Big-Data-Analytics/
 ---
 
 # Big Data Analytics
