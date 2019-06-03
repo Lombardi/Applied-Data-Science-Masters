@@ -52,4 +52,5 @@ That quote has influenced me to do my master’s in applied data science because
 ## Result:
 I learned how to describe, predict, and optimize any type of data.
 
+
 You can find my portfolio on my personal website [_here_](https://www.williamdlombardi.com/wdl-ads-portfolio "Applied Data Science Portfolio").

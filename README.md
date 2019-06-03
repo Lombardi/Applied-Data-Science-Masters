@@ -4,11 +4,6 @@ A jekyll theme with inspiration from linux consoles for hackers, developers and 
 
 <img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenrec-dark.gif" width="550" title="Screenshot">
 
-## Demo
-
-[https://b2a3e8.github.io/jekyll-theme-console/](https://b2a3e8.github.io/jekyll-theme-console/)
-
-
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
@@ -41,7 +36,7 @@ In addition to jekyll's default configuration options, you can provide:
 ```yaml
 header_pages:
   - index.md
-  - about.md
+  - big-data-analytics/about-course.md
 
 style: dark # dark (default) or light
 
