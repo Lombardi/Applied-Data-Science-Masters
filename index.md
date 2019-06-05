@@ -26,7 +26,7 @@ That quote has influenced me to do my master’s in applied data science because
 - [Text Mining](Text-Mining/..)
 - [Data Analysis & Decision Making](Data-Analysis-&-Decision-Making/..)
 - [Big Data Analytics](/Big-Data-Analytics/..)
-- [Metadata](Metadata/about-course.md)
+- [Metadata](/Metadata/)
 - [Principles of Management Science](Principles-of-Management-Science/..)
 
 ## Softwares Learned:
