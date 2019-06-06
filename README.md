@@ -8,7 +8,8 @@ Here is a Screenshot of example of what the theme is capable of:
 
 ## Installation
 In order to install this theme do the following steps:
-_STEP 1:_ Add this line to your Jekyll site's `Gemfile`:
+
+_**STEP 1:**_ Add this line to your Jekyll site's `Gemfile`:
 ```ruby
 gem "jekyll-theme-console"
 ```
@@ -36,8 +37,8 @@ header_pages:
   - index.md
   - /Big-Data-Analytics/about-course.md
 style: dark # dark (default) or light
-footer: 'follow me on <a href="https://twitter.com/dougielombardi">twitter</a>'
-google_analytics: UA-140773849-1
+footer: 'follow me on <a href="https://twitter.com/xxx">twitter</a>'
+google_analytics: UA-#########-#
 ```
 As you can see, I am still working on this part of the site. I am trying to figure out the navbar. If you have worked on this Jekyll theme before and know how to work out the navbar, feel to contact me [_here_](https://www.williamdlombardi.com/contact-wdl).
 
