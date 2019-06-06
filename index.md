@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # About Applied Data Science Masters at Syracuse University
-_**Academic Link:**_ https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/
+_**Academic Link:**_ [https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/](https://ischool.syr.edu/academics/graduate/masters-degrees/ms-in-applied-data-science/)
 
 _**Started:**_ Fall 2017
 
