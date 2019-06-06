@@ -17,9 +17,13 @@ _STEP 2:_ Add this line to your Jekyll site's `_config.yml`:
 theme: jekyll-theme-console
 ```
 _STEP 3:_ Then execute:
+```
     $ bundle
+```
 Or install it yourself as:
+```
     $ gem install jekyll-theme-console
+```
 
 ## Usage
 In addition to the jekyll's default configuration options, you can provide:
