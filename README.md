@@ -1,5 +1,5 @@
 # Applied Data Science Portfolio README.md
-# By William D. Lombardi
+## By William D. Lombardi
 
 The theme I currently using is '__jekyll-theme-console__'. According to the creator of this theme, this was created with an inspiration from linux consoles for hackers, developers and script kiddies.
 
